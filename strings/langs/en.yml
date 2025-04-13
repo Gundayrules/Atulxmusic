@@ -219,8 +219,8 @@ queue_7 : "\nᴄʟɪᴄᴋ ᴏɴ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ 
 queue_8 : "<b>{0} ᴘʟᴀʏᴇʀ</b>\n\n🎄 <b>sᴛʀᴇᴀᴍɪɴɢ :</b> {1}\n\n🔗 <b>sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> {2}\n🥀 <b>ʀᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}\n{4}"
 
 
-stream_1 : "<b><blockquote>➲ Bʀᴀɴᴅᴇᴅ Sᴛᴀʀᴛᴇᴅ Sᴛʀᴇᴀᴍɪɴɢ |⏤͟͞●</blockquote></b>\n\n<b><blockquote>➠ Tɪᴛʟᴇ :</b> <a href={0}>{1}</a>\n<b>➠ Dᴜʀᴀᴛɪᴏɴ :</b> {2} ᴍɪɴᴜᴛᴇs\n<b>➠ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ </b> {3}<b></blockquote>\n<b><blockquote>➠ ϻᴧᴅє ʙʏ  ➛[𝐆𝐔𝐑𝐔™𖤍𝄢🚩](https://t.me/Killingmachin3)</b></blockquote>"
-stream_2 : "<b><blockquote>➲ Bʀᴀɴᴅᴇᴅ Sᴛᴀʀᴛᴇᴅ Sᴛʀᴇᴀᴍɪɴɢ |⏤͟͞●</blockquote></b>\n\n<b><blockquote>➠ Sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>➠ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {0}</blockquote>"
+stream_1 : "<b><blockquote>➲ Sᴛᴀʀᴛᴇᴅ Sᴛʀᴇᴀᴍɪɴɢ |⏤͟͞●</blockquote></b>\n\n<b><blockquote>➠ Tɪᴛʟᴇ :</b> <a href={0}>{1}</a>\n<b>➠ Dᴜʀᴀᴛɪᴏɴ :</b> {2} ᴍɪɴᴜᴛᴇs\n<b>➠ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ </b> {3}<b></blockquote>\n<b><blockquote>➠ ϻᴧᴅє ʙʏ  ➛[𝐆𝐔𝐑𝐔™𖤍𝄢🚩](https://t.me/Killingmachin3)</b></blockquote>"
+stream_2 : "<b><blockquote>➲ Sᴛᴀʀᴛᴇᴅ Sᴛʀᴇᴀᴍɪɴɢ |⏤͟͞●</blockquote></b>\n\n<b><blockquote>➠ Sᴛʀᴇᴀᴍ ᴛʏᴘᴇ :</b> ʟɪᴠᴇ sᴛʀᴇᴀᴍ [ᴜʀʟ]\n<b>➠ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {0}</blockquote>"
 
 #General
 CLOSE_BUTTON  : "↻ ᴄʟᴏsᴇ ↻"
